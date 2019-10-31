@@ -15,8 +15,8 @@ li {
     flex-direction: column;
 }
 
-h2 {
-    color: aliceblue
+h1 {
+    text-transform: uppercase;
 }
 
 head {}
