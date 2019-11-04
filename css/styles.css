@@ -19,7 +19,6 @@ h1 {
     text-transform: uppercase;
 }
 
-head {}
 
 li {
     color: darkred;
@@ -49,7 +48,7 @@ h2 {
 
 body ol,
 body ul {
-    background-color: transparent;
+/*    background-color: transparent;*/
 }
 
  .centered {
