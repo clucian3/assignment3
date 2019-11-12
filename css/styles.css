@@ -19,6 +19,10 @@ h1 {
     text-transform: uppercase;
 }
 
+.multi-colum-container{
+    display: flex;
+    justify-content: space-around;
+}
 
 li {
     color: darkred;
