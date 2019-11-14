@@ -10,8 +10,8 @@ li {
 
 }
 
-.flexboxmasterswitch{
-    display:flex;
+.flexboxmasterswitch {
+    display: flex;
     flex-direction: column;
 }
 
@@ -19,7 +19,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.multi-colum-container{
+.multi-column-container {
     display: flex;
     justify-content: space-around;
 }
@@ -52,10 +52,10 @@ h2 {
 
 body ol,
 body ul {
-/*    background-color: transparent;*/
+    /*    background-color: transparent;*/
 }
 
- .centered {
+.centered {
 
     margin-left: 40px;
     margin-right: 50px;
@@ -71,7 +71,6 @@ body ul {
 
 @media screen and (max-width: 30rem) {
     h1 {
-        color:darkcyan;
+        color: darkcyan;
     }
 }
-    
